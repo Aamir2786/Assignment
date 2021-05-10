@@ -1,0 +1,13 @@
+{
+	"op": "equal",
+	"lhs": {
+		"op": "add",
+		"lhs": 1,
+		"rhs": {
+			"op": "multiply",
+			"lhs": "x",
+			"rhs": 10
+		}
+	},
+	"rhs": 21
+}
